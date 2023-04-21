@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Andrewhew123/Andrewhew123/blob/main/img/wallpaper.png)](https://andrewhew.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Andrew Hew</h1>
-<h3 align="left">I am a student who is currently studying Bachelor of Software Engineering. I am passionate about building web and mobile applications.</h3>
+<h3 align="left">I am a student who is currently studying Bachelor of Software Engineering. I love to build web and mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewhew123&label=Profile%20views&color=0e75b6&style=flat" alt="andrewhew123" /> </p>
 
